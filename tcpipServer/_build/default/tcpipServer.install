@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/tcpipServer/META"
+  "_build/install/default/lib/tcpipServer/dune-package"
+  "_build/install/default/lib/tcpipServer/opam"
+]
+bin: [
+  "_build/install/default/bin/tcpipServer"
+]
